@@ -1,2 +1,2 @@
 # Nextjs-starter
-Boilerplate: basic Nextjs setup
+Boilerplate: global state management with react hooks
