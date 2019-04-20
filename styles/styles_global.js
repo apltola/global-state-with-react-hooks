@@ -5,7 +5,8 @@ export const body = css.global`
     min-height: 100vh;
     margin: 0;
     padding: 0;
-    color: #292f33;
+    //color: #292f33;
+    color: #1a1a1a;
     background-color: #fff;
     font-family: -apple-system,
                 BlinkMacSystemFont,
