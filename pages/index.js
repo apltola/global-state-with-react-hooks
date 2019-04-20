@@ -32,7 +32,6 @@ const Index = () => {
           </div>
         </button>
       </div>
-    
       {children}
 
       <style jsx>{`
