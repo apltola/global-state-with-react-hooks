@@ -6,8 +6,8 @@ const Layout = props => {
   return (
     <div className="app">
       <Head />
-
       <div className="wrapper">
+        <h1>Global state management with react hooks</h1>
         {props.children}
       </div>
 
