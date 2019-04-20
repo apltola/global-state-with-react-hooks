@@ -22,8 +22,10 @@ export const layout = css`
   }
 
   .app_footer {
+    margin-top: 2rem;
     padding: 1rem;
-    min-height: 130px;
+    min-height: 90px;
+    height: 12vh;
     background-color: #2b2b2b;
     color: #ddd;
   }
